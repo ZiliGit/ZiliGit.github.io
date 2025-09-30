@@ -15,6 +15,36 @@
 
 See more info at https://academicpages.github.io/
 
+## Minimal Edits for Users
+This project is optimized for academic job market candidates. Below are the minimal changes you'll need to make to customize the site:
+
+📚 Research Page
+
+Main structure and grouping logic is defined in:
+_pages/research.md
+
+Individual research papers or projects are stored as collection items in:
+_research/
+→ You can add one .md file for each project or paper.
+
+📄 CV Page
+
+This is a static page. Edit the file:
+_pages/cv.md
+
+👩‍🏫 Teaching Page
+
+Another static page. Modify:
+_pages/teaching.md
+
+📂 File Organization
+
+Files (e.g., PDFs for papers, CVs, slides) should go in the:
+files/ folder
+
+Images (e.g., headshots, diagrams) should go in the:
+images/ folder
+
 ## Running locally
 
 When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:

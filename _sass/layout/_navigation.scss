@@ -318,7 +318,13 @@
     }
   }
 }
-
+/*override greedy-nav hover color*/
+.greedy-nav a:hover {
+  color: #2979ab;                // blue hover text
+}
+.greedy-nav .visible-links a:before {
+  background: #5f9bc0;           // blue underline bar
+}
 
 /*
    Navigation list

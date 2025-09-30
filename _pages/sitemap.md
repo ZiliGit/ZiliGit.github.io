@@ -4,6 +4,14 @@ title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
 ---
+A simple sitemap of key pages:
+
+- [Home]({{ "/" | relative_url }})
+- [Research]({{ "/research/" | relative_url }})
+- [Teaching]({{ "/teaching/" | relative_url }})
+- [CV]({{ "/cv/" | relative_url }})
+
+<!--
 
 {% include base_path %}
 
@@ -35,3 +43,4 @@ A list of all the posts and pages found on the site. For you robots out there, t
   {% endunless %}
 {% endfor %}
 {% endfor %}
+-->
