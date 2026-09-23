@@ -6,8 +6,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to My Site! I am a PhD candidate in Economics at the **University of Southern California**.<br> 
+Welcome to my website! I am currently a Research Fellow at **Singapore Management University**.<br>
 
-My research interest lies in **Innovation**, **Business economics**, and **Economic Growth**.<br>
+My research interests include **innovation**, **business economics**, and **economic growth**.<br>
 
-Feel free to reach out via email: [ziliyang@usc.edu](mailto:ziliyang@usc.edu).
+Feel free to reach out to me at [ziliyang@smu.edu.sg](mailto:ziliyang@smu.edu.sg).
+
+
